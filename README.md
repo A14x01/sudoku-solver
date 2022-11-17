@@ -1,1 +1,1 @@
-Easy sudoku solver that check evry row, column and box
+Easy sudoku solver that check every row, column and box
